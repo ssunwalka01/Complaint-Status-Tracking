@@ -1,2 +1,7 @@
 # Complaint-Status-Tracking
+Brainwaves 2019
+After four successful editions, Brainwaves 2019 opens its doors to the top technology talent in the country during its fifth edition. The annual flagship hackathon, Brainwaves, presents a platform for coders to ideate, collaborate, learn, create and test solutions. Spread across three themes of Machine Learning, Cyber Security and Full Stack, this edition of the hackathon reiterates the futuristic work Societe Generale carries out in the world of emerging technologies. The 30-hour build challenge will provide shortlisted participants the unique opportunity to test their solutions against real-world banking problems.
+
+About Societe Generale Societe Generale is one of the leading European financial services groups. Based on a diversified and integrated banking model, the Group combines financial strength and proven expertise in innovation with a strategy of sustainable growth, aiming to be the trusted partner for its clients committed to the positive transformations of the society and the economy. Active in the real economy for over 150 years, with a solid position in Europe and connected to the rest of the world, Societe Generale has over 147,000 members of staff in 67 countries and supports on a daily basis 31 million individual clients, businesses and institutional investors around the world by offering a wide range of advisory services and tailored financial solutions.
+
 Visit link for details:- https://www.hackerearth.com/challenges/competitive/brainwaves-machine-learning/
